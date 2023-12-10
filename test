@@ -1,1 +1,4 @@
 public class Calc : InterfaceCalc
+{
+    private double a = 0;
+    private double memory = 0;
