@@ -2,3 +2,7 @@ public class Calc : InterfaceCalc
 {
     private double a = 0;
     private double memory = 0;
+public void Put_A(double a)
+    {
+        this.a = a;
+    }
