@@ -6,3 +6,7 @@ public void Put_A(double a)
     {
         this.a = a;
     }
+public void Clear_A()
+    {
+        a = 0;
+    }
