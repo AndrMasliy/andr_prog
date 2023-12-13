@@ -10,3 +10,7 @@ public void Clear_A()
     {
         a = 0;
     }
+public double Multiplication(double b)
+    {
+        return a * b;
+    }
