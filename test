@@ -26,3 +26,4 @@ public double Sum(double b)
    public double Subtraction(double b) //вычитание
  {
         return a - b;
+ }
