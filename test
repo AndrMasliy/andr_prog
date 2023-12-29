@@ -31,3 +31,4 @@ public double Sum(double b)
  {
         return Math.Pow(a, 1 / b);
  }
+ public double DegreeY(double b)
