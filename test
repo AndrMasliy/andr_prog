@@ -11,4 +11,4 @@ public void Clear_A()
         a = 0;
     }
 
-continue
+  public double Multiplication(double b)
