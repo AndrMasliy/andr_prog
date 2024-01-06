@@ -20,3 +20,4 @@ return a * b;
 
  public double Division(double b)
   {
+return a / b;
