@@ -26,3 +26,4 @@ return a / b;
     public double Sum(double b)
  {
    return a + b;
+    }
