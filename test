@@ -27,3 +27,5 @@ return a / b;
  {
    return a + b;
     }
+
+public double Subtraction(double b) //вычитание
