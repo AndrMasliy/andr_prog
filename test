@@ -30,3 +30,4 @@ return a / b;
 
 public double Subtraction(double b) //вычитание
   {
+return a - b;
