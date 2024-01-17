@@ -34,3 +34,4 @@ return a - b;
   }
 
  public double SqrtX(double b)
+  {
