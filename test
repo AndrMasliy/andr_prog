@@ -14,4 +14,4 @@ public void Clear_A()
 
 
   public double Multiplication(double b)
-
+ {
