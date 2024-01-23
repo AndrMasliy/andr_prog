@@ -17,3 +17,5 @@ public void Clear_A()
  {
    return a * b;
   }
+
+  public double Division(double b)
