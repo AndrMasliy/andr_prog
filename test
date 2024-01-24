@@ -19,3 +19,4 @@ public void Clear_A()
   }
 
   public double Division(double b)
+ {
